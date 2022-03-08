@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624984971555",
+    "project_id": "notificationinkotlin",
+    "storage_bucket": "notificationinkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624984971555:android:720a65e3086542e80f1496",
+        "android_client_info": {
+          "package_name": "com.encoders.notificationinkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624984971555-40tuthpm6m5jsen5dkcl186ps62b156m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55Kgyv-OleUw3vAmnuO2PLV-MvZdiYgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624984971555-40tuthpm6m5jsen5dkcl186ps62b156m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
